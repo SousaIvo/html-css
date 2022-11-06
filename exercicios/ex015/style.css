@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    background-color: aquamarine;
+    font-size: arial bold;
+}
+h1 {
+    padding: 30px;
+    position: relative;
+    overflow: hidden;
+
+}
+a {
+    text-decoration: none;
+    align-items: flex-end;
+    color: hotpink;
+    display: flex;
+    background: fixed;
+    bottom: 17px;
+    border: 14cm;
+}
